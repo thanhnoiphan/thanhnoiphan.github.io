@@ -13,3 +13,14 @@ I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://
 My research interests lie at the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Having worked across disciplines and regions for over a decade, I now aim to apply my technical background toward more impactful, application-oriented, and policy-relevant research that deepens our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
 Over the past decade, my research has focused on the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Over the last six years, I have worked across disciplines and regions—particularly through my involvement in the MORE STEP project—which has shaped my interest in applying my technical background toward impactful, application-oriented, and policy-relevant research. I aim to deepen our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
+
+
+### Linked Summary 
+Postdoctoral Researcher at LMU Munich, working on land system science, remote sensing, and climate change adaptation in the Mongolian steppe. My background combines over a decade of technical experience in satellite data with interdisciplinary collaboration across regions since 2019. I'm interested in translating Earth observation into actionable, policy-relevant insights on land-climate-ecosystem dynamics.
+
+### Short Bio for Conference, Website...
+I am a Postdoctoral Researcher at LMU Munich focusing on remote sensing, land use/cover change, and climate change adaptation. With over 10 years of experience in spatial data analysis and six years in interdisciplinary research, my work integrates satellite data, field surveys, and social-ecological approaches to understand land–climate–ecosystem interactions, especially in the context of the Mongolian steppe.
+
+### Once sentence verion: 
+Dr. [Phan] is a Postdoctoral Researcher at LMU Munich whose work focuses on remote sensing and land–climate–ecosystem interactions through interdisciplinary and application-oriented approaches.
+
