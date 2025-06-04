@@ -1,0 +1,65 @@
+/* Reset cơ bản */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+/* Wrapper bọc toàn bộ trang, dùng flex dọc */
+.site-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* chiều cao tối thiểu = chiều cao viewport */
+}
+
+/* HEADER / MENU */
+.site-header {
+  background-color: #f5f5f5; /* xám rất nhạt thay cho xanh lá */
+  padding: 10px 20px;
+  display: flex;
+  justify-content: flex-end; /* căn menu về bên phải */
+  align-items: center;
+}
+
+.site-header nav {
+  display: flex;
+  gap: 40px; /* khoảng cách rộng hơn */
+}
+
+.site-header nav a {
+  color: #333; /* đổi sang xám đậm thay vì trắng */
+  text-decoration: none;
+  font-weight: 700; /* đậm hơn */
+  font-size: 1.4em; /* to hơn */
+  padding: 5px 0;
+}
+
+.site-header nav a:hover {
+  text-decoration: underline;
+}
+
+/* MAIN CONTENT */
+.site-main {
+  background-color: #ffffff; /* nền trắng */
+  color: #000000;            /* chữ đen */
+  flex: 1;                   /* chiếm toàn bộ không gian còn lại */
+  padding: 40px 20px;
+
+  max-width: 1200px;         /* giới hạn chiều rộng tối đa */
+  margin: 0 auto;            /* căn giữa nội dung */
+
+  text-align: justify;       /* căn đều 2 bên */
+  text-justify: inter-word;  /* hỗ trợ căn đều */
+}
+
+
+/* FOOTER */
+.panel-footer {
+  background-color: #f5f5f5; /* màu xám rất nhạt */
+  color: #333;
+  text-align: center;
+  padding: 20px 0;
+  width: 100%;
+  font-size: 0.9em;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ page.title | default: "Thanh Noi Phan" }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+    
+    <!-- Font Awesome 4.7 for legacy 'fa fa-*' syntax -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <!-- HEADER / NAVIGATION BAR -->
+      <header class="site-header">
+        <nav>
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/cv/' | relative_url }}">CV</a>
+          <a href="{{ '/research/' | relative_url }}">Research</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        </nav>
+      </header>
+
+      <!-- MAIN CONTENT -->
+      <main class="site-main">
+        {{ content }}
+      </main>
+
+      <!-- FOOTER -->
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

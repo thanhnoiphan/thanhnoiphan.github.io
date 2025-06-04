@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+  {{ content }}
+
+  {% if site.posts.size > 0 %}
+    <section class="posts-list">
+      <h2>Posts</h2>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+
+  {%- comment -%}
+  {% if site.feed %}
+    <p class="rss-subscribe">
+      subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a>
+    </p>
+  {% endif %}
+  {%- endcomment -%}
+</div>
