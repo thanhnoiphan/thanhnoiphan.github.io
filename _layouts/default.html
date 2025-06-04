@@ -4,8 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title | default: "Thanh Noi Phan" }}</title>
+
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
-    
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
+
     <!-- Font Awesome 4.7 for legacy 'fa fa-*' syntax -->
     <link
       rel="stylesheet"
@@ -14,16 +16,20 @@
       referrerpolicy="no-referrer"
     />
   </head>
+
   <body>
     <div class="site-wrapper">
       <!-- HEADER / NAVIGATION BAR -->
       <header class="site-header">
-        <nav>
-          <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/cv/' | relative_url }}">CV</a>
-          <a href="{{ '/research/' | relative_url }}">Research</a>
-          <a href="{{ '/publications/' | relative_url }}">Publications</a>
-          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        <nav class="site-nav">
+          <div class="menu-toggle" aria-label="Toggle menu" role="button" tabindex="0">&#9776;</div>
+          <div class="menu-links">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            <a href="{{ '/cv/' | relative_url }}">CV</a>
+            <a href="{{ '/research/' | relative_url }}">Research</a>
+            <a href="{{ '/publications/' | relative_url }}">Publications</a>
+            <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          </div>
         </nav>
       </header>
 
@@ -35,5 +41,7 @@
       <!-- FOOTER -->
       {% include footer.html %}
     </div>
+
+    <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
   </body>
 </html>
