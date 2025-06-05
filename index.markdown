@@ -17,7 +17,7 @@ My research interests lie at the intersection of remote sensing applications, la
 
 Over the past decade, my research has focused on the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Over the last six years, I have worked across disciplines and regions—particularly through my involvement in the MORE STEP project—which has shaped my interest in applying my technical background toward impactful, application-oriented, and policy-relevant research. I aim to deepen our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
-
+### Find out more about my research 👉
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phanthanhnoi@gmail.com)](mailto:phanthanhnoi@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
