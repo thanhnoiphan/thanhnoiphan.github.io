@@ -57,9 +57,9 @@ March 2008 – October 2013
 
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Geodesy Engineer
-*[Geodetic and Topographic Division]()*
+*[Geodetic and Topographic Division]()* <br> 
 July 2007 – February 2008 <br> 
-*Specialized in seafloor depth mapping through bathymetric surveys, data processing, and geospatial visualization.*
+*Specialized in marine geospatial data acquisition and bathymetric mapping.*
 
 
 ## Teaching Experience
