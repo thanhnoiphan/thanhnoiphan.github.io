@@ -76,15 +76,15 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 
 
 ## Teaching Experience
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Geodesy for Land Management Program (Basic & Advanced Geodesy courses) <br> 
-> [VNUA](https://eng.vnua.edu.vn/), March 2008 – October 2013  
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Geodesy for Land Management Program (Basic & Advanced Geodesy courses), [VNUA](https://eng.vnua.edu.vn/), March 2008 – October 2013  
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Photogrammetry, Remote Sensing, and GIS courses, [VNUA](https://eng.vnua.edu.vn/), March 2008 – October 2013  
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Introduction to Google Earth Engine for Big Data Analysis, [LMU Munich](https://www.lmu.de/de/) Three days intensiver course (October 2024)
 
 ## Teaching Experience
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Lecturer**, Geodesy for Land Management Program (Basic & Advanced Geodesy courses), *Vietnam National University of Agriculture*  
-  _March 2008 – October 2013_
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Lecturer**, Geodesy for Land Management Program (Basic & Advanced Geodesy courses) <br> 
+*Vietnam National University of Agriculture*  <br> 
+March 2008 – October 2013*
 
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Lecturer**, Photogrammetry, Remote Sensing, and GIS courses, *Vietnam National University of Agriculture*  
   _March 2008 – October 2013_
