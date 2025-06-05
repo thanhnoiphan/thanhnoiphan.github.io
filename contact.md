@@ -26,6 +26,13 @@ permalink: /contact/
     </div>
   </div>
 
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:phanthanhnoi@gmail.com)](mailto:phanthanhnoi@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
+[![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
+[![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
+[![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
+
   <!-- Google Map -->
   <div class="row mb-4">
     <div class="col-12">
