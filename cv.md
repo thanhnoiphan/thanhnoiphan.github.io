@@ -74,12 +74,12 @@ July 2007 – February 2008 <br>
   _October 2024_
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, Nov 2017 – Apr 2018
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017 
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) PhD Scholarship, Government of Vietnam, University of Göttingen, Nov 2013 – Oct 2017 
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Ford Foundation Scholarship for MSc, Asian Institute of Technology, 08/2010 – 06/2012 
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Ford Foundation Scholarship for MSc, Asian Institute of Technology, Aug 2010 – Jun 2012 
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Outstanding Student Scholarship, Hanoi University of Mining and Geology, 05/2005  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Outstanding Student Scholarship, Hanoi University of Mining and Geology, May 2005  
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Academic Excellence Scholarships, Hanoi University of Mining and Geology, 09/2002 – 07/2007
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Academic Excellence Scholarships, Hanoi University of Mining and Geology, Sep 2002 – Jul 2007
