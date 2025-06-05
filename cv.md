@@ -80,6 +80,17 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Photogrammetry, Remote Sensing, and GIS courses, [VNUA](https://eng.vnua.edu.vn/), March 2008 – October 2013  
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Introduction to Google Earth Engine for Big Data Analysis, [LMU Munich](https://www.lmu.de/de/) Three days intensiver course (October 2024)
 
+## Teaching Experience
+
+- **Lecturer**, Geodesy for Land Management Program (Basic & Advanced Geodesy courses), *Vietnam National University of Agriculture (VNUA)*  
+  _March 2008 – October 2013_
+
+- **Lecturer**, Photogrammetry, Remote Sensing, and GIS courses, *VNUA*  
+  _March 2008 – October 2013_
+
+- **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
+  _October 2024_
+
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 - Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018  
 - PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017  
