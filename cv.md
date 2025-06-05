@@ -41,24 +41,19 @@ Thesis:Detecting Land Use and Land Cover Change Using Remote Sensing and GIS: Ca
 Thesis: GPS Positioning
 
 ## Research Experience
-#### Postdoctoral Researcher
-<div style="margin-left: 0.5em; margin-top: -0.5em;">
-  <a href="https://www.geo.lmu.de/geographie/de/personen/"><strong>Ludwig-Maximilians University of Munich (LMU)</strong></a>, Germany <br>
-  June 2019 – Present
-</div>
 
-#### Associate Researcher
-<div style="margin-left: 0.5em; margin-top: -0.5em;">
-  <a href="https://www.uni-goettingen.de/"><strong>University of Göttingen</strong></a>, Germany. <br>
-  11/2018 – 05/2019
-</div>
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Postdoctoral Researcher**
+*[Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/)*, Munich, Germany <br>
+June 2019 – Present
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Associate Researcher**
+*[University of Göttingen](https://www.uni-goettingen.de/)*, Göttingen, Germany. <br>
+November 2018 – May 2019
   
 
-#### Lecturer and Researcher
-<div style="margin-left: 0.5em; margin-top: -0.5em;">
-  <a href="https://eng.vnua.edu.vn/"><strong>Vietnam National University of Agriculture (VNUA)</strong></a>, Vietnam <br>
-  03/2008 – 10/2013
-</div>
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Lecturer and Researcher**
+*[Vietnam National University of Agriculture (VNUA)](https://eng.vnua.edu.vn/)*, Hanoi, Vietnam <br>
+March 2008 – October 2013
 
 
 #### Geodesy Engineer / Land-GPS Surveyor
@@ -75,7 +70,7 @@ Thesis: GPS Positioning
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Lecturer**, Photogrammetry, Remote Sensing, and GIS courses, *Vietnam National University of Agriculture*  
   _March 2008 – October 2013_
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *Ludwig-Maximilians-Universität München*  
   _October 2024_
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
