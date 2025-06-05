@@ -28,7 +28,7 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **PhD in Geography** (magna cum laude)
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **PhD in Geography** (magna cum laude) <br> 
 *University of Göttingen(https://www.uni-goettingen.de/)*, 2018 <br> 
 Dissertation: Air Surface Temperature Estimation Using MODIS Land Surface Temperature Data in Northwest Vietnam
 
