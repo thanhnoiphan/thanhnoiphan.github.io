@@ -56,11 +56,11 @@ November 2018 – May 2019
 March 2008 – October 2013
 
 
-#### Geodesy Engineer / Land-GPS Surveyor
-<div style="margin-left: 0.5em; margin-top: -0.5em;">
-  <a href="#"><strong>Geodetic and Topographic Division</strong></a>, Vietnam <br>
-  07/2007 – 02/2008
-</div>
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Geodesy Engineer
+*[Geodetic and Topographic Division]()*
+July 2007 – February 2008 <br> 
+*Specialized in seafloor depth mapping through bathymetric surveys, data processing, and geospatial visualization.*
+
 
 ## Teaching Experience
 
