@@ -22,7 +22,7 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 </ul>
 
 ## <i class="fa fa-lightbulb"></i> Skills
-- Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms  
+![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `Mau xanh lam` Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms  
 - Proficient in GIS software (ENVI, ArcGIS)  
 - Skilled in R, Python, and Google Earth Engine (GEE)  
 
