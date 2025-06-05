@@ -28,15 +28,16 @@ html, body {
 }
 
 .site-header nav a {
-  color: #333; /
+  color: #0077B5; /* 🔵 LinkedIn */
   text-decoration: none;
-  font-weight: 700; /* đậm hơn */
-  font-size: 1.1em; /* to hơn */
+  font-weight: 600;
+  font-size: 1em;
   padding: 5px 0;
 }
 
 .site-header nav a:hover {
   text-decoration: underline;
+  color: #005983; /* greener when hover */
 }
 
 /* MAIN CONTENT */
