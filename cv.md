@@ -36,7 +36,7 @@ Dissertation: Air Surface Temperature Estimation Using MODIS Land Surface Temper
 *[Asian Institute of Technology](https://ait.ac.th/)*, Thailand, June 2012 <br> 
 Thesis:Detecting Land Use and Land Cover Change Using Remote Sensing and GIS: Case Study of Tam Nong District, Phu Tho Province, Vietnam
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) BSc in Geodesy (Survey Engineering)
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) BSc in Geodesy (Survey Engineering) <br> 
 *[Hanoi University of Mining and Geology](https://humg.edu.vn/en/Pages/home.aspx)*, Vietnam, July 2007 <br> 
 Thesis: GPS Positioning
 
