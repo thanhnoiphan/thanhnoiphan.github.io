@@ -15,10 +15,11 @@ html, body {
 
 /* HEADER / MENU */
 .site-header {
-  background-color: #f5f5f5; /* xám rất nhạt thay cho xanh lá */
+  background-color: #f5f5f5; 
   padding: 10px 20px;
   display: flex;
-  justify-content: flex-end; /* căn menu về bên phải */
+  /*justify-content: flex-end; /* căn menu về bên phải */
+  justify-content: center; /* 🔄 căn giữa menu */
   align-items: center;
 }
 
