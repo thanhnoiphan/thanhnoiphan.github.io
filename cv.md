@@ -78,15 +78,14 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 
 ## Teaching Experience
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Lecturer**, Geodesy for Land Management Program (Basic & Advanced Geodesy courses), *Vietnam National University of Agriculture*  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Lecturer**, Geodesy for Land Management Program (Basic & Advanced Geodesy courses), *Vietnam National University of Agriculture*  
   _March 2008 – October 2013_
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Lecturer**, Photogrammetry, Remote Sensing, and GIS courses, *Vietnam National University of Agriculture*  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Lecturer**, Photogrammetry, Remote Sensing, and GIS courses, *Vietnam National University of Agriculture*  
   _March 2008 – October 2013_
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
   _October 2024_
-
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018
