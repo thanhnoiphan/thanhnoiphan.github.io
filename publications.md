@@ -10,33 +10,33 @@ permalink: /publications/
 
 **Peer-Reviewed Journals (published)**
 
-[14]. Diem, P. K., Nguyen, C. T., Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., & **Phan, T.-N**. (2024). Remote sensing for urban heat island research: Progress, current issues, and perspectives. *Remote Sensing Applications: Society and Environment*, 33. https://doi.org/10.1016/j.rsase.2023.101081
+[14]. Diem, P. K., Nguyen, C. T., Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., & **Phan, T.-N**. (2024). Remote sensing for urban heat island research: Progress, current issues, and perspectives. *Remote Sensing Applications: Society and Environment*, 33. [https://doi.org/10.1016/j.rsase.2023.101081](https://doi.org/10.1016/j.rsase.2023.101081)
 
-[13]. Ji, S., Dashpurev, B., **Phan, T.-N**., Dorj, M., Jäschke, Y., & Lehnert, L. (2024). Above‐ground biomass retrieval with multi‐source data: Prediction and applicability analysis in Eastern Mongolia. *Land Degradation & Development*. https://doi.org/10.1002/ldr.5109
+[13]. Ji, S., Dashpurev, B., **Phan, T.-N**., Dorj, M., Jäschke, Y., & Lehnert, L. (2024). Above‐ground biomass retrieval with multi‐source data: Prediction and applicability analysis in Eastern Mongolia. *Land Degradation & Development*. [https://doi.org/10.1002/ldr.5109](https://doi.org/10.1002/ldr.5109)
 
-[12]. Dashpurev, B., Dorj, M., **Phan, T.-N**., Bendix, J., & Lehnert, L. W. (2023). Estimating fractional vegetation cover and aboveground biomass for land degradation assessment in eastern Mongolia steppe: combining ground vegetation data and remote sensing. *International Journal of Remote Sensing*, 44(2), 452-468. https://doi.org/10.1080/01431161.2023.2165421
+[12]. Dashpurev, B., Dorj, M., **Phan, T.-N**., Bendix, J., & Lehnert, L. W. (2023). Estimating fractional vegetation cover and aboveground biomass for land degradation assessment in eastern Mongolia steppe: combining ground vegetation data and remote sensing. *International Journal of Remote Sensing*, 44(2), 452-468. [https://doi.org/10.1080/01431161.2023.2165421](https://doi.org/10.1080/01431161.2023.2165421)
 
-[11]. Nguyen, C. T., Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., **Phan, T.-N**., & Niammuad, D. (2023). A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. *Land Degradation & Development*, 34(18), 5770-5787. https://doi.org/10.1002/ldr.4876
+[11]. Nguyen, C. T., Kaewthongrach, R., Channumsin, S., Chongcheawchamnan, M., **Phan, T.-N**., & Niammuad, D. (2023). A regional assessment of ecological environment quality in Thailand special economic zone: Spatial heterogeneous influences and future prediction. *Land Degradation & Development*, 34(18), 5770-5787. [https://doi.org/10.1002/ldr.4876](https://doi.org/10.1002/ldr.4876)
 
-[10]. **Phan, T.-N**., Dashpurev, B., Wiemer, F., & Lehnert, L. W. (2022). A simple, fast, and accurate method for land cover mapping in Mongolia. *Geocarto International*, 37(26), 14432-14450. https://doi.org/10.1080/10106049.2022.2087759
+[10]. **Phan, T.-N**., Dashpurev, B., Wiemer, F., & Lehnert, L. W. (2022). A simple, fast, and accurate method for land cover mapping in Mongolia. *Geocarto International*, 37(26), 14432-14450. [https://doi.org/10.1080/10106049.2022.2087759](https://doi.org/10.1080/10106049.2022.2087759)
 
-[9]. Dashpurev, B., Wesche, K., Jäschke, Y., Oyundelger, K., **Phan, T.-N**., Bendix, J., & Lehnert, L. W. (2021). A cost-effective method to monitor vegetation changes in steppes ecosystems: A case study on remote sensing of fire and infrastructure effects in eastern Mongolia. *Ecological Indicators*, 132. https://doi.org/10.1016/j.ecolind.2021.108331
+[9]. Dashpurev, B., Wesche, K., Jäschke, Y., Oyundelger, K., **Phan, T.-N**., Bendix, J., & Lehnert, L. W. (2021). A cost-effective method to monitor vegetation changes in steppes ecosystems: A case study on remote sensing of fire and infrastructure effects in eastern Mongolia. *Ecological Indicators*, 132. [https://doi.org/10.1016/j.ecolind.2021.108331](https://doi.org/10.1016/j.ecolind.2021.108331)
 
-[8]. **Phan, T.-N**., Kuch, V., & Lehnert, L. W. (2020). Land Cover Classification using Google Earth Engine and Random Forest Classifier—The Role of Image Composition. *Remote Sensing*, 12(15). https://doi.org/10.3390/rs12152411 (<mark>Highly Cited Paper</mark>)
+[8]. **Phan, T.-N**., Kuch, V., & Lehnert, L. W. (2020). Land Cover Classification using Google Earth Engine and Random Forest Classifier—The Role of Image Composition. *Remote Sensing*, 12(15). [https://doi.org/10.3390/rs12152411](https://doi.org/10.3390/rs12152411) (<mark>Highly Cited Paper</mark>)
 
-[7]. Bayat, M., **Phan, T.-N**., Zare, R., & Bui, D. (2019). A Semi-empirical Approach Based on Genetic Programming for the Study of Biophysical Controls on Diameter-Growth of Fagus orientalis in Northern Iran. *Remote Sensing*, 11(14). https://doi.org/10.3390/rs11141680
+[7]. Bayat, M., **Phan, T.-N**., Zare, R., & Bui, D. (2019). A Semi-empirical Approach Based on Genetic Programming for the Study of Biophysical Controls on Diameter-Growth of Fagus orientalis in Northern Iran. *Remote Sensing*, 11(14). [https://doi.org/10.3390/rs11141680](https://doi.org/10.3390/rs11141680)
 
-[6]. **Phan, T.-N**., Kappas, M., Nguyen, K. T., Tran, T. P., Tran, Q. V., & Emam, A. R. (2019). Evaluation of MODIS land surface temperature products for daily air surface temperature estimation in northwest Vietnam. *International Journal of Remote Sensing*, 40(14), 5544-5562. https://doi.org/10.1080/01431161.2019.1580789
+[6]. **Phan, T.-N**., Kappas, M., Nguyen, K. T., Tran, T. P., Tran, Q. V., & Emam, A. R. (2019). Evaluation of MODIS land surface temperature products for daily air surface temperature estimation in northwest Vietnam. *International Journal of Remote Sensing*, 40(14), 5544-5562. [https://doi.org/10.1080/01431161.2019.1580789](https://doi.org/10.1080/01431161.2019.1580789)
 
-[5]. **Phan, T.-N**., & Kappas, M. (2018). Application of MODIS land surface temperature data: a systematic literature review and analysis. *Journal of Applied Remote Sensing*, 12(04). https://doi.org/10.1117/1.Jrs.12.041501
+[5]. **Phan, T.-N**., & Kappas, M. (2018). Application of MODIS land surface temperature data: a systematic literature review and analysis. *Journal of Applied Remote Sensing*, 12(04). [https://doi.org/10.1117/1.Jrs.12.041501](https://doi.org/10.1117/1.Jrs.12.041501)
 
-[4]. **Phan, T.-N**., Kappas, M., & Tran, T. (2018). Land Surface Temperature Variation Due to Changes in Elevation in Northwest Vietnam. *Climate*, 6(2). https://doi.org/10.3390/cli6020028
+[4]. **Phan, T.-N**., Kappas, M., & Tran, T. (2018). Land Surface Temperature Variation Due to Changes in Elevation in Northwest Vietnam. *Climate*, 6(2). [https://doi.org/10.3390/cli6020028](https://doi.org/10.3390/cli6020028)
 
 [3]. **Phan, T.-N.**, & Kappas, M. (2018). *Comparison of Random Forest, k-Nearest Neighbor, and Support Vector Machine Classifiers for Land Cover Classification Using Sentinel-2 Imagery.* *Sensors (Basel)*, 18(1). [doi:10.3390/s18010018](https://doi.org/10.3390/s18010018) (<mark>Highly Cited Paper</mark>)
 
-[2]. **Phan, T.-N**., Degener, J., & Kappas, M. (2017). Comparison of Multiple Linear Regression, Cubist Regression, and Random Forest Algorithms to Estimate Daily Air Surface Temperature from Dynamic Combinations of MODIS LST Data. *Remote Sensing*, 9(5). https://doi.org/10.3390/rs9050398
+[2]. **Phan, T.-N**., Degener, J., & Kappas, M. (2017). Comparison of Multiple Linear Regression, Cubist Regression, and Random Forest Algorithms to Estimate Daily Air Surface Temperature from Dynamic Combinations of MODIS LST Data. *Remote Sensing*, 9(5). [https://doi.org/10.3390/rs9050398](https://doi.org/10.3390/rs9050398)
 
-[1]. **Phan, T.-N**., Kappas, M., & Degener, J. (2016). Estimating Daily Maximum and Minimum Land Air Surface Temperature Using MODIS Land Surface Temperature Data and Ground Truth Data in Northern Vietnam. *Remote Sensing*, 8(12). https://doi.org/10.3390/rs8121002
+[1]. **Phan, T.-N**., Kappas, M., & Degener, J. (2016). Estimating Daily Maximum and Minimum Land Air Surface Temperature Using MODIS Land Surface Temperature Data and Ground Truth Data in Northern Vietnam. *Remote Sensing*, 8(12). [https://doi.org/10.3390/rs8121002](https://doi.org/10.3390/rs8121002)
 
 **Peer-Reviewed Journals (Submitted, Under Review)**
 
