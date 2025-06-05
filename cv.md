@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ## Thanh-Noi Phan, PhD
-Postdoctoral Researcher | Ludwig-Maximilians University of Munich
+Postdoctoral Researcher | Ludwig-Maximilians-Universität München
 
 My broad research interests center on understanding the dynamic interactions among human activities, climate change, and policy in shaping social, economic, and environmental outcomes across spatial and temporal scales. I integrate quantitative approaches, including field-based inventory data, remote sensing, data harmonization, and geocomputational methods, with qualitative insights to explore these complex interactions, especially in the context of human-environment relationships and cultural adaptations to environmental change.
 
