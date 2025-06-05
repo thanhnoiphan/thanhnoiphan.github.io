@@ -9,22 +9,22 @@ permalink: /contact/
 <div class="container-fluid">
 
   <!-- Thông tin liên lạc -->
-  <div class="row mb-4">
-    <div class="col-12">
-      <div style="text-align: left;">
-        <p>
-          Dr. Thanh-Noi Phan<br>
-          Department of Geography<br>
-          Ludwig-Maximilians-Universität München (LMU)<br>
-          Luisenstraße 37<br>
-          80333 München<br>
-          Germany
-        </p>
-        <span class="glyphicon glyphicon-phone-alt"></span> +49 (0)89 2180-6748 <br>
-        <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:Phan.Noi@lmu.de">Phan.Noi@lmu.de</a>
-      </div>
+<div class="row mb-4">
+  <div class="col-12">
+    <div style="text-align: left;">
+      <p>
+        <span style="font-size: 1.3em; font-weight: bold; color: #0077B5;">Dr. Thanh-Noi Phan</span><br>
+        Department of Geography<br>
+        Ludwig-Maximilians-Universität München (LMU)<br>
+        Luisenstraße 37<br>
+        80333 München<br>
+        Germany
+      </p>
+      <span class="glyphicon glyphicon-phone-alt"></span> +49 (0)89 2180-6748 <br>
+      <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:Phan.Noi@lmu.de">Phan.Noi@lmu.de</a>
     </div>
   </div>
+</div>
 
   <!-- Social media badges -->
   <div class="row mb-4">
