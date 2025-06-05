@@ -23,6 +23,28 @@ permalink: /contact/
         <span class="glyphicon glyphicon-phone-alt"></span> +49 (0)89 2180-6748 <br>
         <i class="glyphicon glyphicon-envelope"></i> <a href="mailto:Phan.Noi@lmu.de">Phan.Noi@lmu.de</a>
       </div>
+
+      <!-- Badge liên kết -->
+      <div style="margin-top: 1rem;">
+        <a href="mailto:phanthanhnoi@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white" alt="Email Badge" />
+        </a>
+        <a href="https://www.github.com/thanhnoiphan/">
+          <img src="https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white" alt="GitHub Badge" />
+        </a>
+        <a href="https://www.researchgate.net/profile/Thanh-Noi-Phan">
+          <img src="https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge" />
+        </a>
+        <a href="https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao">
+          <img src="https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white" alt="Google Scholar Badge" />
+        </a>
+        <a href="https://www.scopus.com/authid/detail.uri?authorId=58706107200">
+          <img src="https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white" alt="Scopus Badge" />
+        </a>
+        <a href="https://www.webofscience.com/wos/author/record/AAD-9789-2019">
+          <img src="https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white" alt="Web of Science Badge" />
+        </a>
+      </div>
     </div>
   </div>
 
