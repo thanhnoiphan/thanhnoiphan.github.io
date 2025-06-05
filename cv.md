@@ -89,8 +89,12 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018  
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png)PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017  
-- Ford Foundation Scholarship for MSc, Asian Institute of Technology, 08/2010 – 06/2012  
-- Outstanding Student Scholarship, Hanoi University of Mining and Geology, 05/2005  
-- Academic Excellence Scholarships, Hanoi University of Mining and Geology, 09/2002 – 07/2007
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017 
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Ford Foundation Scholarship for MSc, Asian Institute of Technology, 08/2010 – 06/2012 
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Outstanding Student Scholarship, Hanoi University of Mining and Geology, 05/2005  
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Academic Excellence Scholarships, Hanoi University of Mining and Geology, 09/2002 – 07/2007
