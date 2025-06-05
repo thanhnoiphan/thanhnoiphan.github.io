@@ -32,14 +32,13 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 *[University of Göttingen](https://www.uni-goettingen.de/)*, 2018 <br> 
 Dissertation: Air Surface Temperature Estimation Using MODIS Land Surface Temperature Data in Northwest Vietnam
 
-#### MSc in Natural Resources Management, 2012  
-<div style="margin-left: 0.5em; margin-top: -0.5em;">
-  <a href="https://ait.ac.th/"><strong>Asian Institute of Technology</strong></a>, Thailand <br>
-  Thesis: Detecting Land Use and Land Cover Change Using Remote Sensing and GIS: Case Study of Tam Nong District, Phu Tho Province, Vietnam
-</div>
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) MSc in Natural Resources Management
+*[Asian Institute of Technology](https://ait.ac.th/)*, Thailand, June 2012 <br> 
+<ins>Thesis:</ins>: Detecting Land Use and Land Cover Change Using Remote Sensing and GIS: Case Study of Tam Nong District, Phu Tho Province, Vietnam
 
 
-#### BSc in Geodesy (Survey Engineering), 2007  
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) BSc in Geodesy (Survey Engineering), 2007  
 <div style="margin-left: 0.5em; margin-top: -0.5em;">
   <a href="https://humg.edu.vn/en/Pages/home.aspx"><strong>Hanoi University of Mining and Geology</strong></a>, Vietnam <br>
   Thesis: GPS Positioning
