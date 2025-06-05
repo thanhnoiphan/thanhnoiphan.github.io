@@ -85,6 +85,7 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
   _October 2024_
 
+
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 - Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018  
 - PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017  
