@@ -1,4 +1,4 @@
-/* Reset cơ bản */
+/* Reset */
 html, body {
   margin: 0;
   padding: 0;
@@ -6,11 +6,10 @@ html, body {
   font-family: Arial, sans-serif;
 }
 
-/* Wrapper bọc toàn bộ trang, dùng flex dọc */
 .site-wrapper {
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* chiều cao tối thiểu = chiều cao viewport */
+  min-height: 100vh; /*set the height */
 }
 
 /* HEADER / MENU */
@@ -18,21 +17,21 @@ html, body {
   background-color: #f5f5f5; 
   padding: 10px 20px;
   display: flex;
-  /*justify-content: flex-end; /* căn menu về bên phải */
-  justify-content: center; /* 🔄 căn giữa menu */
+  /*justify-content: flex-end;  */
+  justify-content: center; 
   align-items: center;
 }
 
 .site-header nav {
   display: flex;
-  gap: 40px; /* khoảng cách rộng hơn */
+  gap: 80px; /* distance between menu */
 }
 
 .site-header nav a {
-  color: #333; /* đổi sang xám đậm thay vì trắng */
+  color: #333; /
   text-decoration: none;
   font-weight: 700; /* đậm hơn */
-  font-size: 1.4em; /* to hơn */
+  font-size: 1.1em; /* to hơn */
   padding: 5px 0;
 }
 
