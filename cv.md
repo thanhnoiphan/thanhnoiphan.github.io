@@ -22,11 +22,11 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 </ul>
 
 ## <i class="fa fa-lightbulb"></i> Skills
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms 
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms 
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Proficient in GIS software (ENVI, ArcGIS)  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Proficient in GIS software (ENVI, ArcGIS)  
 
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Skilled in R, Python, and Google Earth Engine (GEE)  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Skilled in R, Python, and Google Earth Engine (GEE)  
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
