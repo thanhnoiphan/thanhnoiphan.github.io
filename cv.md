@@ -18,15 +18,6 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
 
-## Contact Info
-
-<ul style="list-style: none; padding-left: 0;">
-  <li><i class="fa fa-envelope"></i> <a href="mailto:Phan.Noi@lmu.de">Phan.Noi@lmu.de</a></li>
-  <li><i class="fa fa-phone"></i> +49 (0) 89/2180 - 6748</li>
-  <li><i class="fa-brands fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Thanh-Noi-Phan">ResearchGate</a></li>
-  <li><i class="fa fa-github"></i> <a href="https://github.com/thanhnoiphan">GitHub</a></li>
-  <li><i class="fa fa-home"></i> <a href="https://www.geographie.uni-muenchen.de/department/fiona/personen/index.php?personen_details=1&user_id=344">Homepage</a></li>
-</ul>
 
 ## <i class="fa fa-lightbulb"></i> Skills
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms 
