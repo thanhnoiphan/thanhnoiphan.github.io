@@ -91,6 +91,29 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 - **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *LMU Munich*  
   _October 2024_
 
+<h2>Teaching Experience</h2>
+
+<div style="font-size: 17px; font-family: 'Source Sans Pro', sans-serif; line-height: 1.6;">
+  <div>
+    <span style="display: inline-block; width: 10px; height: 10px; background-color: #1589F0; margin-right: 10px;"></span>
+    <strong>Lecturer</strong>, Geodesy for Land Management Program (Basic & Advanced Geodesy courses), 
+    <em>Vietnam National University of Agriculture (VNUA)</em><br>
+    <span style="color: gray;">March 2008 – October 2013</span>
+  </div>
+  <div>
+    <span style="display: inline-block; width: 10px; height: 10px; background-color: #1589F0; margin-right: 10px;"></span>
+    <strong>Lecturer</strong>, Photogrammetry, Remote Sensing, and GIS courses, 
+    <em>VNUA</em><br>
+    <span style="color: gray;">March 2008 – October 2013</span>
+  </div>
+  <div>
+    <span style="display: inline-block; width: 10px; height: 10px; background-color: #1589F0; margin-right: 10px;"></span>
+    <strong>Instructor</strong>, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), 
+    <em>LMU Munich</em><br>
+    <span style="color: gray;">October 2024</span>
+  </div>
+</div>
+
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 - Family Oriented Finishing Grant, University of Göttingen, 11/2017 – 04/2018  
 - PhD Scholarship, Government of Vietnam, University of Göttingen, 11/2013 – 10/2017  
