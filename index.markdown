@@ -15,8 +15,6 @@ I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://
 
 My research interests lie at the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Having worked across disciplines and regions for over a decade, I now aim to apply my technical background toward more impactful, application-oriented, and policy-relevant research that deepens our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
-Over the past decade, my research has focused on the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Over the last six years, I have worked across disciplines and regions—particularly through my involvement in the MORE STEP project—which has shaped my interest in applying my technical background toward impactful, application-oriented, and policy-relevant research. I aim to deepen our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
-
 ### Find out more about my research 👉
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
