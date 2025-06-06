@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 </details>
-<details><summary><b> # On going project </b></summary>
+<details><summary><b> On going project </b></summary>
 
 
 **MORE STEP – Mobility at risk: Sustaining the Mongolian Steppe Ecosystem** | [Website](https://www.morestep.org/)
