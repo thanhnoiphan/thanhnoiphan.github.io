@@ -4,7 +4,7 @@ title: Thanh-Noi Phan
 ---
 
 <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" style="max-height: 300px; border-radius: 8px; float: left; margin-right: 30px; margin-bottom: 20px;" />
-
+<br> 
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
 
 As part of the "Upscaling Vegetation" work package, I develop spatial datasets by integrating satellite imagery, household surveys, interviews, and in situ measurements. I also participate in field campaigns in Mongolia in close collaboration with the Botany Team at the Senckenberg Museum of Natural History Görlitz and the [National University of Mongolia](https://portal.num.edu.mn/en) (including several joint fieldwork campaigns with [Prof. Dr. Karsten Wesche](https://www.senckenberg.de/de/institute/senckenberg-museum-fuer-naturkunde-goerlitz/abt-botanik/sekt-phanerogamen-i/phanerogamen-i-team/)).
