@@ -38,7 +38,7 @@ title: Thanh-Noi Phan
 
   .profile-container img {
     margin-right: 0;
-    margin-bottom: 10px; /* giảm khoảng cách xuống chỉ còn 10px */
+    margin-bottom: 5px; /* giảm khoảng cách xuống chỉ còn 10px */
     width: 100%;
     height: auto;
     max-height: none;
