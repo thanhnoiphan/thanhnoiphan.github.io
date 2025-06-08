@@ -19,12 +19,13 @@ You can [download my CV as a PDF here](assets/files/cv.pdf).
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
 
 
-## <i class="fa fa-lightbulb"></i> Skills
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Expertise in Geostatistical Analysis, Machine Learning, and Classification Algorithms 
+## <i class="fa fa-lightbulb"></i> Technical Expertise
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Geostatistical Analysis, Machine Learning, Classification Algorithms
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Proficient in GIS software (ENVI, ArcGIS)  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) GIS Software: ENVI, ArcGIS
 
-![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Skilled in R, Python, and Google Earth Engine (GEE)  
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Programming & Tools: R, Python, Google Earth Engine (GEE)
+    
 
 ## <i class="fa fa-graduation-cap"></i> Education
 
