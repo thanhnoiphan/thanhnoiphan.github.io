@@ -3,7 +3,7 @@ layout: home
 title: Thanh-Noi Phan
 ---
 
-<!-- Meta viewport để tránh zoom khi chạm -->
+<!-- Meta viewport  -->
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 
 <style>
