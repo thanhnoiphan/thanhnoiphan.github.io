@@ -3,12 +3,16 @@ layout: home
 title: Thanh-Noi Phan
 ---
 
+<!-- Meta viewport để tránh zoom khi chạm -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
 <style>
+/* Container flex ngang, responsive dọc trên màn hình nhỏ */
 .profile-container {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   align-items: flex-start;
+  margin-bottom: 1em;
 }
 
 .profile-container img {
@@ -16,6 +20,10 @@ title: Thanh-Noi Phan
   border-radius: 8px;
   margin-right: 30px;
   margin-bottom: 20px;
+  flex-shrink: 0;
+  width: auto;
+  height: 300px;
+  object-fit: cover;
 }
 
 .profile-text {
@@ -24,7 +32,7 @@ title: Thanh-Noi Phan
   line-height: 1.5;
 }
 
-/* Trên màn hình nhỏ (điện thoại dưới 768px) */
+/* Responsive cho màn hình nhỏ (điện thoại) */
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column;
@@ -33,15 +41,17 @@ title: Thanh-Noi Phan
   .profile-container img {
     margin-right: 0;
     margin-bottom: 20px;
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    max-height: none;
   }
 }
 </style>
 
 <div class="profile-container">
   <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" />
-  <div class="profile-text">
+  <div class="profile-text"></div>
+</div>
 
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
 
@@ -54,11 +64,9 @@ I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://
 My research interests lie at the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Having worked across disciplines and regions for over a decade, I now aim to apply my technical background toward more impactful, application-oriented, and policy-relevant research that deepens our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
 ### Find out more about my research 👉
+
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
-
-  </div>
-</div>
