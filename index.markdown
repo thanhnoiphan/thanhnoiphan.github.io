@@ -7,7 +7,6 @@ title: Thanh-Noi Phan
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 
 <style>
-/* Container flex ngang, responsive dọc trên màn hình nhỏ */
 .profile-container {
   display: flex;
   flex-wrap: wrap;
@@ -19,10 +18,9 @@ title: Thanh-Noi Phan
   max-height: 300px;
   border-radius: 8px;
   margin-right: 30px;
-  margin-bottom: 20px;
   flex-shrink: 0;
   width: auto;
-  height: 300px;
+  height: auto;
   object-fit: cover;
 }
 
@@ -40,13 +38,14 @@ title: Thanh-Noi Phan
 
   .profile-container img {
     margin-right: 0;
-    margin-bottom: 20px;
+    margin-bottom: 10px; /* giảm khoảng cách xuống chỉ còn 10px */
     width: 100%;
     height: auto;
     max-height: none;
   }
 }
 </style>
+
 
 <div class="profile-container">
   <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" />
