@@ -30,7 +30,7 @@ title: Thanh-Noi Phan
   line-height: 1.5;
 }
 
-/* Responsive cho màn hình nhỏ (điện thoại) */
+/* small phone*/
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column;
@@ -38,7 +38,7 @@ title: Thanh-Noi Phan
 
   .profile-container img {
     margin-right: 0;
-    margin-bottom: 5px; /* giảm khoảng cách xuống chỉ còn 10px */
+    margin-bottom: 5px; 
     width: 100%;
     height: auto;
     max-height: none;
