@@ -3,8 +3,46 @@ layout: home
 title: Thanh-Noi Phan
 ---
 
-<img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" style="max-height: 300px; border-radius: 8px; float: left; margin-right: 30px; margin-bottom: 20px;" />
-<br> 
+<style>
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.profile-container img {
+  max-height: 300px;
+  border-radius: 8px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+.profile-text {
+  flex: 1 1 300px;
+  min-width: 250px;
+  line-height: 1.5;
+}
+
+/* Trên màn hình nhỏ (điện thoại dưới 768px) */
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+  }
+
+  .profile-container img {
+    margin-right: 0;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+  }
+}
+</style>
+
+<div class="profile-container">
+  <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" />
+  <div class="profile-text">
+
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
 
 As part of the "Upscaling Vegetation" work package, I develop spatial datasets by integrating satellite imagery, household surveys, interviews, and in situ measurements. I also participate in field campaigns in Mongolia in close collaboration with the Botany Team at the Senckenberg Museum of Natural History Görlitz and the [National University of Mongolia](https://portal.num.edu.mn/en) (including several joint fieldwork campaigns with [Prof. Dr. Karsten Wesche](https://www.senckenberg.de/de/institute/senckenberg-museum-fuer-naturkunde-goerlitz/abt-botanik/sekt-phanerogamen-i/phanerogamen-i-team/)).
@@ -22,4 +60,5 @@ My research interests lie at the intersection of remote sensing applications, la
 [![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
 [![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
 
-
+  </div>
+</div>
