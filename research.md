@@ -36,4 +36,14 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 
 ♦ Importance of separating training and testing samples for robust validation
 
+
+✅ **Phan & Kappas. 2018**  
+  (Highly Cited Paper)
+✅ **Phan et al. (2017)**  
+  Compared linear models vs. Machine Learning (Random Forest)  
+✅ **Phan & Kappas (2018)**  
+  Systematic Review & Meta-analysis of MODIS LST applications  
+✅ **Phan et al. (2019)**  
+  Investigated LST data quantity & quality for Ta estimation  
+  
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj2_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
