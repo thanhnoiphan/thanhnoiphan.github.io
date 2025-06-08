@@ -25,17 +25,17 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png?raw=true" style="max-width: 100%; height: auto;" />
 
-### Machine Learning Approaches for Land Cover Classification/ Mapping
+### Machine Learning Approaches for Land Cover Classification and Mapping
 
-✅ **Phan & Kappas. 2018**  
-(Highly Cited Paper) <br> 
-Different Machine Learning Algorithms and relevanted techniques for high accuracy land cover classification
+✅ **Phan & Kappas (2018)**  
+*(Highly Cited Paper)*  
+A comparative analysis of multiple machine learning algorithms and related techniques for high-accuracy land cover classification.
 
-✅ **Phan et al. 2020**  
-(Highly Cited Paper) <br> 
-The Role of Image Composition in Land Cover Classification 
- 
-✅ **Phan et al. 2022**  
-A simple, fast, and accurate method for land cover mapping. 
-  
+✅ **Phan et al. (2020)**  
+*(Highly Cited Paper)*  
+Investigates the impact of image composition strategies on land cover classification performance.
+
+✅ **Phan et al. (2022)**  
+Proposes a simple, fast, and accurate method for large-scale land cover mapping.
+
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj2_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
