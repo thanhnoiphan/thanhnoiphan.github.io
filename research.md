@@ -24,3 +24,16 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
   Investigated LST data quantity & quality for Ta estimation  
 
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png?raw=true" style="max-width: 100%; height: auto;" />
+
+### Machine Learning Approaches for Land Cover Classification 
+♦ Trends in machine learning classifiers for land cover classification
+
+♦ Effects of imbalanced training samples
+
+♦ Influence of sample size on classification accuracy
+
+♦ Optimization and tuning of machine learning models
+
+♦ Importance of separating training and testing samples for robust validation
+
+<img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj2_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
