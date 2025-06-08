@@ -74,6 +74,7 @@ July 2007 – February 2008 <br>
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Instructor**, Introduction to Google Earth Engine for Big Data Analysis (3-day intensive course), *Ludwig-Maximilians-Universität München*  
   _October 2024_
 
+<!-- comment 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Travel Grant, LMU Mentoring Program, Faculty of Geosciences, LMU Munich, Dec 2024 <br> 
@@ -93,3 +94,4 @@ July 2007 – February 2008 <br>
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Academic Excellence Scholarships, Hanoi University of Mining and Geology, Sep 2002 – Jul 2007 <br> 
 *The Hanoi University of Mining and Geology awards scholarships to excellent students during the academic year. Hanoi, Vietnam 09.2002 – 07.2007*
+-->
