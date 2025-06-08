@@ -13,13 +13,14 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 ### Finished project 
 
 ### Air Surface Temperature (Ta) Estimation using MODIS LST
-Phan et al. (2016)
+
+- [x] Phan et al. (2016)
 → Selected the best predictors for daily max/min Ta estimation
-Phan et al. (2017)
+- [x] Phan et al. (2017)
 → Compared linear models vs. Machine Learning (Random Forest)
-Phan & Kappas (2018)
+- [x] Phan & Kappas (2018)
 → Systematic Review & Meta-analysis of MODIS LST applications
-Phan et al. (2019) 
+- [x] Phan et al. (2019) 
 → Investigated LST data quantity & quality for Ta estimation
 
 
