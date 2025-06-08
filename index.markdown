@@ -18,6 +18,7 @@ title: Thanh-Noi Phan
   max-height: 300px;
   border-radius: 8px;
   margin-right: 30px;
+  margin-bottom: 0px;
   flex-shrink: 0;
   width: auto;
   height: auto;
@@ -28,28 +29,35 @@ title: Thanh-Noi Phan
   flex: 1 1 300px;
   min-width: 250px;
   line-height: 1.5;
+  margin-top: 0; /* loại bỏ margin thừa nếu có */
 }
 
-/* small phone*/
+/* Responsive cho màn hình nhỏ (điện thoại) */
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column;
+    align-items: center;
   }
 
   .profile-container img {
-    margin-right: 0;
-    margin-bottom: 5px; 
-    width: 100%;
+    margin: 0 auto 5px auto; /* căn giữa + margin dưới nhỏ */
+    max-width: 90vw; /* tránh ảnh quá lớn */
     height: auto;
-    max-height: none;
+    max-height: 300px;
+  }
+
+  .profile-text {
+    text-align: left;
+    margin-top: 0;
   }
 }
 </style>
 
 
+
 <div class="profile-container">
   <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" />
-  <div class="profile-text"></div>
+  <div class="profile-text">
 </div>
 
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
