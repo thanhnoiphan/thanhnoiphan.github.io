@@ -75,11 +75,16 @@ July 2007 – February 2008 <br>
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, Nov 2017 – Apr 2018
+*This grant offers stipends for PhD students who have families and demonstrate strong research results.*
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) PhD Scholarship, Government of Vietnam, University of Göttingen, Nov 2013 – Oct 2017 
+*Scholarship from the Government of Vietnam.*
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Ford Foundation Scholarship for MSc, Asian Institute of Technology, Aug 2010 – Jun 2012 
+*Scholarship for Master Degree at Asian Institute of Technology (AIT), Bangkok, Thailand.*
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Outstanding Student Scholarship, Hanoi University of Mining and Geology, May 2005  
+*This scholarship, provided by The Aerial Photo - Topography Company and the Military Map Department of Vietnam, is awarded to the top 5 students at Hanoi University of Mining and Geology.*
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Academic Excellence Scholarships, Hanoi University of Mining and Geology, Sep 2002 – Jul 2007
+*The Hanoi University of Mining and Geology awards scholarships to excellent students during the academic year. Hanoi, Vietnam 09.2002 – 07.2007*
