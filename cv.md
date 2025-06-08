@@ -74,6 +74,11 @@ July 2007 – February 2008 <br>
   _October 2024_
 
 ## <i class="fa fa-trophy"></i> Scholarships & Awards
+
+![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Travel Grant, LMU Mentoring Program, Faculty of Geosciences, LMU Munich, Dec 2024 <br> 
+*This grant supports early-career researchers with travel funding to present their work at international conferences*. <br> 
+*I received this award to attend and present at the 2024 American Geophysical Union (AGU) Fall Meeting in Washington, D.C., the United States.*
+
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) Family Oriented Finishing Grant, University of Göttingen, Nov 2017 – Apr 2018 <br> 
 *This grant offers stipends for PhD students who have families and demonstrate strong research results.*
 
