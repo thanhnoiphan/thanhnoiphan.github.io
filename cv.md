@@ -41,7 +41,7 @@ Thesis:Detecting Land Use and Land Cover Change Using Remote Sensing and GIS: Ca
 *[Hanoi University of Mining and Geology](https://humg.edu.vn/en/Pages/home.aspx)*, Vietnam, July 2007 <br> 
 Thesis: GPS Positioning
 
-## Research Experience
+## 🔬 Research Experience
 
 ![#00CCBB](https://placehold.co/10x10/00CCBB/00CCBB.png) **Postdoctoral Researcher**
 *[Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/)*, Munich, Germany <br>
