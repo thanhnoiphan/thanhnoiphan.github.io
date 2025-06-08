@@ -23,4 +23,4 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 ✅ **Phan et al. (2019)**  
   Investigated LST data quantity & quality for Ta estimation  
 
-<img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png?raw=true" width="750"/>
+<img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png?raw=true" style="max-width: 100%; height: auto;" />
