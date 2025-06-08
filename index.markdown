@@ -3,62 +3,16 @@ layout: home
 title: Thanh-Noi Phan
 ---
 
-<!-- Meta viewport  -->
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-
 <style>
-.profile-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  margin-bottom: 1em;
-}
-
-.profile-container img {
+.profile-image {
+  display: block;
   max-height: 300px;
+  margin: 0 auto 20px auto;
   border-radius: 8px;
-  margin-right: 30px;
-  margin-bottom: 0px;
-  flex-shrink: 0;
-  width: auto;
-  height: auto;
-  object-fit: cover;
-}
-
-.profile-text {
-  flex: 1 1 300px;
-  min-width: 250px;
-  line-height: 1.5;
-  margin-top: 0; /* loại bỏ margin thừa nếu có */
-}
-
-/* Responsive cho màn hình nhỏ (điện thoại) */
-@media (max-width: 768px) {
-  .profile-container {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .profile-container img {
-    margin: 0 auto 5px auto; /* căn giữa + margin dưới nhỏ */
-    max-width: 90vw; /* tránh ảnh quá lớn */
-    height: auto;
-    max-height: 300px;
-  }
-
-  .profile-text {
-    text-align: left;
-    margin-top: 0;
-  }
 }
 </style>
 
-
-
-<div class="profile-container">
-  <img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" />
-  <div class="profile-text">
-</div>
+<img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" class="profile-image" />
 
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
 
