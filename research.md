@@ -25,25 +25,17 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png?raw=true" style="max-width: 100%; height: auto;" />
 
-### Machine Learning Approaches for Land Cover Classification 
-♦ Trends in machine learning classifiers for land cover classification
-
-♦ Effects of imbalanced training samples
-
-♦ Influence of sample size on classification accuracy
-
-♦ Optimization and tuning of machine learning models
-
-♦ Importance of separating training and testing samples for robust validation
-
+### Machine Learning Approaches for Land Cover Classification/ Mapping
 
 ✅ **Phan & Kappas. 2018**  
-  (Highly Cited Paper)
-✅ **Phan et al. (2017)**  
-  Compared linear models vs. Machine Learning (Random Forest)  
-✅ **Phan & Kappas (2018)**  
-  Systematic Review & Meta-analysis of MODIS LST applications  
-✅ **Phan et al. (2019)**  
-  Investigated LST data quantity & quality for Ta estimation  
+(Highly Cited Paper) <br> 
+Different Machine Learning Algorithms and relevanted techniques for high accuracy land cover classification
+
+✅ **Phan et al. 2020**  
+(Highly Cited Paper) <br> 
+The Role of Image Composition in Land Cover Classification 
+ 
+✅ **Phan et al. 2022**  
+A simple, fast, and accurate method for land cover mapping. 
   
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj2_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
