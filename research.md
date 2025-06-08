@@ -22,5 +22,5 @@ This is a collaborative and interdisciplinary research project of Mongolian and 
 → Systematic Review & Meta-analysis of MODIS LST applications
 - [x] Phan et al. (2019) 
 → Investigated LST data quantity & quality for Ta estimation
-
+> <img src='https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj1_Ta_estimation.png' width='750'> 
 
