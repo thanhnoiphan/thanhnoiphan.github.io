@@ -54,7 +54,7 @@ permalink: /contact/
     </div>
   </div>
 
-  <!-- Ảnh tòa nhà -->
+  <!-- Ảnh tòa nhà 
   <div class="row">
     <div class="col-12">
       <figure style="margin: 0 auto; max-width: 1200px;">
@@ -65,7 +65,7 @@ permalink: /contact/
       </figure>
     </div>
   </div>
-
+-->
 </div>
 
 <script>
