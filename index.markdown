@@ -3,16 +3,8 @@ layout: home
 title: Thanh-Noi Phan
 ---
 
-<style>
-.profile-image {
-  display: block;
-  max-height: 300px;
-  margin: 0 auto 20px auto;
-  border-radius: 8px;
-}
-</style>
+<img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" style="display: block; max-height: 300px; margin: 0 auto 20px auto; border-radius: 8px;" />
 
-<img src="/assets/img/thanhnoiphan.jpg" alt="Thanh-Noi Phan" class="profile-image" />
 
 I am a Postdoctoral Researcher at the Department of Geography, [Ludwig-Maximilians-Universität München (LMU)](https://www.geo.lmu.de/geographie/de/personen/), Germany, working with [Prof. Dr. Lukas Lehnert](https://www.geo.lmu.de/geographie/en/people/contact-page/lukas-lehnert-6d3751d4.html) on [“MORE STEP – Mobility at Risk: Sustaining the Mongolian Steppe Ecosystem”](https://www.morestep.org/english3.html), a collaborative, interdisciplinary research project involving Mongolian and German partners, funded by the German Federal Ministry of Education and Research (BMBF). The project brings together social and ecological sciences to identify societal drivers that may lead to ecological tipping points in the Mongolian steppe ecosystem.
 
