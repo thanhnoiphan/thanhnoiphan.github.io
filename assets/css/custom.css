@@ -38,6 +38,8 @@ main, .site-main {
   background-color: var(--background-color) !important;
   color: var(--text-color) !important;
 
+  font-size: 18px;  /* tăng kích thước chữ */
+  
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
