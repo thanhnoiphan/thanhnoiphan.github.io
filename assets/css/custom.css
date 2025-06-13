@@ -1,4 +1,32 @@
 /* custom.css: menu responsive cho minima theme */
+:root {
+  --background-color: #ffffff;
+  --text-color: #222222;
+  --link-color: #0366d6;
+  --header-bg: #f6f8fa;
+}
+
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #ddd;
+  --link-color: #6cb2eb;
+  --header-bg: #1e1e1e;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Ví dụ sửa header và link cũng thay đổi theo biến */
+.site-header {
+  background-color: var(--header-bg);
+}
+
+a {
+  color: var(--link-color);
+}
 
 /* Ẩn menu ngang khi màn hình nhỏ */
 @media (max-width: 768px) {
