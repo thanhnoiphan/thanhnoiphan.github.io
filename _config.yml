@@ -1,7 +1,7 @@
 title: "Thanh Noi Phan"
 description: "My personal academic website."
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"  # có thể thay bằng "dark", "air", "neon", v.v.
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"  # hoặc "dark"
 skin_switch: true
 
 plugins:
@@ -9,7 +9,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Menu điều hướng
 navigation:
   - title: "Home"
     url: /
