@@ -1,12 +1,11 @@
 <header class="site-header">
   <nav class="site-nav">
+    <!-- Góc trái: tên hoặc logo -->
     <div class="site-brand">
-      <!-- Bạn có thể thay bằng <img> nếu muốn dùng avatar -->
       <a href="{{ "/" | relative_url }}">Thanh Phan</a>
     </div>
 
-    <div class="menu-toggle" aria-label="Toggle menu" role="button" tabindex="0">&#9776;</div>
-
+    <!-- Giữa: menu -->
     <div class="menu-links">
       <a href="{{ "/" | relative_url }}">Home</a>
       <a href="{{ "/cv/" | relative_url }}">CV</a>
@@ -15,6 +14,10 @@
       <a href="{{ "/contact/" | relative_url }}">Contact</a>
     </div>
 
+    <!-- Góc phải: theme toggle -->
     <button id="theme-toggle" class="theme-toggle" aria-label="Toggle light/dark theme">🌓</button>
+
+    <!-- Nút hamburger chỉ hiện khi mobile -->
+    <div class="menu-toggle" aria-label="Toggle menu" role="button" tabindex="0">&#9776;</div>
   </nav>
 </header>
