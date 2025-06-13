@@ -25,9 +25,6 @@ permalink: /contact/
       </div>
 
 <div style="margin-top: 1rem;">
-  <a href="mailto:phanthanhnoi@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
   <a href="https://www.linkedin.com/in/thanhnoiphan/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
