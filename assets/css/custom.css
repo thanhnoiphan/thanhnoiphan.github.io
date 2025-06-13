@@ -1,0 +1,102 @@
+/* custom.css: menu responsive cho minima theme */
+
+/* --- Theme variables --- */
+:root {
+  --background-color: #ffffff;
+  --text-color: #222222;
+  --link-color: #0366d6;
+  --header-bg: #f6f8fa;
+}
+
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #ddd;
+  --link-color: #6cb2eb;
+  --header-bg: #1e1e1e;
+}
+
+/* Áp dụng màu nền và chữ cho body */
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Header và link cũng thay đổi theo biến */
+.site-header {
+  background-color: var(--header-bg);
+  transition: background-color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+  transition: color 0.3s ease;
+}
+
+/* Ẩn menu ngang khi màn hình nhỏ */
+@media (max-width: 768px) {
+  nav.site-nav ul {
+    display: none;
+    flex-direction: column;
+    background-color: #f4f4f4;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    width: 150px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+    border-radius: 5px;
+    z-index: 1000;
+  }
+  nav.site-nav ul.show {
+    display: flex;
+  }
+  nav.site-nav li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+  }
+  nav.site-nav li:last-child {
+    border-bottom: none;
+  }
+  .menu-toggle {
+    display: block;
+    cursor: pointer;
+    font-size: 28px;
+    padding: 10px 20px;
+    user-select: none;
+  }
+}
+
+/* Ẩn nút hamburger trên màn hình lớn */
+.menu-toggle {
+  display: none;
+}
+
+/* Nút đổi theme */
+.theme-toggle {
+  background: transparent;          /* nền trong suốt */
+  border: 1px solid #2a7ae2;        /* viền màu xanh như link */
+  color: #2a7ae2;                   /* chữ màu xanh */
+  padding: 0.2rem 0.6rem;           /* đệm nhỏ trong nút */
+  border-radius: 5px;               /* bo tròn góc */
+  cursor: pointer;                  /* con trỏ chuột thành tay */
+  font-size: 1.1rem;                /* kích thước chữ vừa phải */
+  margin-left: 15px;                /* cách menu bên trái 15px */
+  vertical-align: middle;           /* canh nút theo chiều dọc */
+  user-select: none;                /* không cho chọn chữ */
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+/* ===== MỚI THÊM ===== */
+/* Áp dụng nền và màu chữ cho phần nội dung chính */
+main, .site-main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  background-color: var(--background-color);
+  color: var(--text-color);
+
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
