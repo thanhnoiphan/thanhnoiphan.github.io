@@ -121,3 +121,9 @@ a {
   color: #0077b5 !important;
   text-decoration: underline;
 }
+
+mark {
+  background-color: yellow;
+  padding: 0 4px;
+  border-radius: 3px;
+}
