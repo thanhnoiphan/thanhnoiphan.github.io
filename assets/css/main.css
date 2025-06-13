@@ -1,0 +1,187 @@
+/* ============================
+   Global Theme Variables
+   ============================ */
+
+/* Light theme (default) */
+:root,
+[data-theme="light"] {
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --link-color: #007acc;
+  --header-bg: #f8f8f8;
+  --nav-link-hover: #e0e0e0;
+  --border-color: #eaeaea;
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  --background-color: #121212;
+  --text-color: #dddddd;
+  --link-color: #6cb2eb;
+  --header-bg: #1e1e1e;
+  --nav-link-hover: #2a2a2a;
+  --border-color: #333333;
+}
+
+/* ============================
+   Base Styles
+   ============================ */
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ============================
+   Header / Navigation
+   ============================ */
+
+.site-header {
+  background-color: var(--header-bg);
+  padding: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  transition: background-color 0.3s ease;
+  position: relative;
+  z-index: 10;
+}
+
+.site-nav {
+  display: flex;
+  justify-content: flex-start;  /* dồn về bên trái */
+  align-items: center;
+  gap: 2rem; /* khoảng cách giữa các phần tử */
+  flex-wrap: nowrap;
+}
+
+/* Menu links container */
+.menu-links {
+  display: flex;
+  gap: 2rem; /* khoảng cách giữa các menu item */
+  align-items: center;
+}
+
+/* Menu links items */
+.menu-links a {
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  white-space: nowrap; /* không xuống dòng */
+}
+
+.menu-links a:hover {
+  background-color: var(--nav-link-hover);
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: var(--text-color);
+  transition: color 0.3s ease;
+}
+
+/* Hamburger menu button - chỉ hiện trên điện thoại */
+.menu-toggle-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: var(--text-color);
+  margin-left: auto; /* đẩy sang phải */
+}
+
+/* ============================
+   Responsive: điện thoại và nhỏ hơn 768px
+   ============================ */
+@media (max-width: 768px) {
+  .site-nav {
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  
+  /* Ẩn menu links mặc định */
+  .menu-links {
+    position: fixed;
+    top: 0;
+    left: -250px; /* ẩn ra ngoài màn hình */
+    height: 100vh;
+    width: 250px;
+    background-color: var(--background-color);
+    flex-direction: column;
+    padding-top: 4rem;
+    gap: 1.5rem;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+    transition: left 0.3s ease;
+    overflow-y: auto;
+    z-index: 100;
+  }
+  
+  /* Hiện menu links khi active */
+  .menu-links.active {
+    left: 0;
+  }
+
+  /* menu links a thành nút block rộng toàn chiều ngang */
+  .menu-links a {
+    padding: 1rem 1.5rem;
+    border-radius: 0;
+    width: 100%;
+  }
+  
+  /* Hiện nút hamburger */
+  .menu-toggle-btn {
+    display: block;
+  }
+  
+  /* Ẩn nút toggle theme khi menu sổ ra, để bạn có thể tùy chọn giữ hay không */
+  /* Bạn có thể bỏ đoạn này nếu muốn luôn hiện */
+  .theme-toggle {
+    order: 2;
+  }
+}
+
+/* ============================
+   Page Content (ưu tiên màu) 
+   ============================ */
+
+main, main * {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+  padding: 2rem;
+  min-height: 60vh;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ============================
+   Footer (optional)
+   ============================ */
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border-color);
+  color: var(--text-color);
+  background-color: var(--background-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+main {
+  text-align: left !important;
+}
