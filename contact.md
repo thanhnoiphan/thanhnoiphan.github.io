@@ -3,9 +3,6 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-
-<br>
-
 <div class="container-fluid">
 
   <!-- Thông tin liên lạc -->
