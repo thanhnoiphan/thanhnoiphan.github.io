@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -16,7 +16,6 @@
       referrerpolicy="no-referrer"
     />
   </head>
-<script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 
   <body>
     <div class="site-wrapper">
@@ -45,6 +44,8 @@
       {% include footer.html %}
     </div>
 
+    <!-- Đưa script đổi theme xuống cuối body để đảm bảo DOM đã có nút -->
+    <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
   </body>
 </html>
