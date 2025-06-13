@@ -115,3 +115,9 @@ nav.site-nav ul {
   padding: 0;
   margin: 0;
 }
+
+/* Link màu xanh LinkedIn */
+a {
+  color: #0077b5 !important;
+  text-decoration: underline;
+}
