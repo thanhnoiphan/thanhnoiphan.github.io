@@ -11,11 +11,13 @@ plugins:
 
 # Menu điều hướng
 navigation:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
   - title: "CV"
     url: /cv/
-  - title: "Projects"
-    url: /projects/
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
