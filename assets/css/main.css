@@ -61,33 +61,29 @@ a:hover {
 
 .site-nav {
   display: flex;
-  justify-content: space-between;
   align-items: center;
-  gap: 2rem;
+  justify-content: space-between;
   flex-wrap: nowrap;
-  position: relative;
+  gap: 1rem;
 }
 
-/* Brand (avatar + name) nằm trái */
+/* Trái: Tên hoặc logo */
 .site-brand {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
   font-weight: bold;
   font-size: 1.2rem;
   white-space: nowrap;
+  margin-right: 1rem;
 }
 
-/* Menu links container */
-/* Menu links container căn giữa */
+/* Giữa: Menu links */
 .menu-links {
   display: flex;
   gap: 2rem;
+  flex: 1;
+  justify-content: center;
   align-items: center;
-  margin: 0 auto;
 }
 
-/* Menu links items */
 .menu-links a {
   padding: 0.5rem 0.75rem;
   border-radius: 4px;
@@ -98,7 +94,7 @@ a:hover {
   background-color: var(--nav-link-hover);
 }
 
-/* Theme Toggle Button */
+/* Phải: Nút theme toggle */
 .theme-toggle {
   background: none;
   border: none;
@@ -106,33 +102,33 @@ a:hover {
   cursor: pointer;
   color: var(--text-color);
   transition: color 0.3s ease;
+  margin-left: auto;
 }
 
-/* Hamburger menu button - chỉ hiện trên điện thoại */
-.menu-toggle-btn {
+/* Hamburger menu button */
+.menu-toggle {
   display: none;
   background: none;
   border: none;
   font-size: 1.8rem;
   cursor: pointer;
   color: var(--text-color);
-  margin-left: auto; /* đẩy sang phải */
+  margin-left: 1rem;
 }
 
 /* ============================
-   Responsive: điện thoại và nhỏ hơn 768px
+   Responsive
    ============================ */
+
 @media (max-width: 768px) {
   .site-nav {
-    flex-wrap: nowrap;
-    justify-content: space-between;
+    flex-wrap: wrap;
   }
-  
-  /* Ẩn menu links mặc định */
+
   .menu-links {
     position: fixed;
     top: 0;
-    left: -250px; /* ẩn ra ngoài màn hình */
+    left: -250px;
     height: 100vh;
     width: 250px;
     background-color: var(--background-color);
@@ -144,33 +140,38 @@ a:hover {
     overflow-y: auto;
     z-index: 100;
   }
-  
-  /* Hiện menu links khi active */
+
   .menu-links.active {
     left: 0;
   }
 
-  /* menu links a thành nút block rộng toàn chiều ngang */
   .menu-links a {
     padding: 1rem 1.5rem;
     border-radius: 0;
     width: 100%;
   }
-  
-  /* Hiện nút hamburger */
-  .menu-toggle-btn {
+
+  .menu-toggle {
     display: block;
+    order: 3;
   }
-  
-  /* Ẩn nút toggle theme khi menu sổ ra, để bạn có thể tùy chọn giữ hay không */
-  /* Bạn có thể bỏ đoạn này nếu muốn luôn hiện */
+
   .theme-toggle {
     order: 2;
+    margin-left: 0;
+  }
+
+  .site-brand {
+    order: 1;
+  }
+
+  .site-nav {
+    justify-content: space-between;
   }
 }
 
 /* ============================
-   Page Content (ưu tiên màu) 
+   Page Content
    ============================ */
 
 main, main * {
@@ -179,6 +180,10 @@ main, main * {
   padding: 2rem;
   min-height: 60vh;
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+main {
+  text-align: left !important;
 }
 
 /* ============================
@@ -193,8 +198,4 @@ footer {
   color: var(--text-color);
   background-color: var(--background-color);
   transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-main {
-  text-align: left !important;
 }
