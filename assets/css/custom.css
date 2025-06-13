@@ -99,3 +99,17 @@ main * {
   user-select: none;
   transition: color 0.3s ease, border-color 0.3s ease;
 }
+
+/* Căn giữa menu điều hướng ngang (desktop) */
+nav.site-nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav.site-nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
