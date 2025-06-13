@@ -43,11 +43,12 @@ main, .site-main {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* Override phần tử con */
-main *:not(mark) {
+/* vừa có màu cho link, vừa có màu cho highlight */
+main *:not(mark):not(a) {
   background-color: transparent !important;
   color: inherit !important;
 }
+
 
 /* Responsive menu và nút toggle giữ nguyên */
 @media (max-width: 768px) {
