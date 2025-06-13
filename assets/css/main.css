@@ -61,24 +61,37 @@ a:hover {
 
 .site-nav {
   display: flex;
-  justify-content: flex-start;  /* dồn về bên trái */
+  justify-content: space-between;
   align-items: center;
-  gap: 2rem; /* khoảng cách giữa các phần tử */
+  gap: 2rem;
   flex-wrap: nowrap;
+  position: relative;
+}
+
+/* Brand (avatar + name) nằm trái */
+.site-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  white-space: nowrap;
 }
 
 /* Menu links container */
+/* Menu links container căn giữa */
 .menu-links {
   display: flex;
-  gap: 2rem; /* khoảng cách giữa các menu item */
+  gap: 2rem;
   align-items: center;
+  margin: 0 auto;
 }
 
 /* Menu links items */
 .menu-links a {
   padding: 0.5rem 0.75rem;
   border-radius: 4px;
-  white-space: nowrap; /* không xuống dòng */
+  white-space: nowrap;
 }
 
 .menu-links a:hover {
