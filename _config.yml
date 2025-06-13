@@ -1,25 +1,21 @@
-title: Thanh-Noi Phan
-email: noi.t.phan@gmail.com
-description: >-
-  Personal website of Thanh Noi Phan.
-baseurl: ""
-url: "https://thanhnoiphan.github.io"
-theme: minima
-markdown: kramdown
+title: "Thanh Noi Phan"
+description: "My personal academic website."
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"  # có thể thay bằng "dark", "air", "neon", v.v.
+skin_switch: true
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
 
-# Navigation order (Left → Right)
-nav:
-  - title: "Home"
-    url: /
+# Menu điều hướng
+navigation:
+  - title: "About"
+    url: /about/
   - title: "CV"
-    url: /cv
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
   - title: "Research"
-    url: /research
-  - title: "Publications"
-    url: /publications
-  - title: "Contact"
-    url: /contact
-
+    url: /research/
