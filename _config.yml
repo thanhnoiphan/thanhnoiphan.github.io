@@ -1,43 +1,25 @@
 title: Thanh-Noi Phan
 email: noi.t.phan@gmail.com
-description: >
-  Environmental Scientist | Geospatial & Remote Sensing Researcher
-baseurl: "" # don't change this
+description: >-
+  Personal website of Thanh Noi Phan.
+baseurl: ""
 url: "https://thanhnoiphan.github.io"
-theme: jekyll-theme-minimal
+theme: minima
 markdown: kramdown
-
-logo: /assets/img/profile.jpg   # Đường dẫn ảnh đại diện nếu bạn có
-show_downloads: false           # Ẩn nút download trên giao diện
 
 plugins:
   - jekyll-feed
 
-
-
-
-# title: Thanh-Noi Phan
-# email: noi.t.phan@gmail.com
-# description: >-
-#   Personal website of Thanh Noi Phan.
-# baseurl: ""
-# url: "https://thanhnoiphan.github.io"
-# theme: minima
-# markdown: kramdown
-
-# plugins:
-#   - jekyll-feed
-
 # Navigation order (Left → Right)
-# nav:
-#   - title: "Home"
-#     url: /
-#   - title: "CV"
-#     url: /cv
-#   - title: "Research"
-#     url: /research
-#   - title: "Publications"
-#     url: /publications
-#   - title: "Contact"
-#     url: /contact
+nav:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv
+  - title: "Research"
+    url: /research
+  - title: "Publications"
+    url: /publications
+  - title: "Contact"
+    url: /contact
 
