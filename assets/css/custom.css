@@ -44,7 +44,7 @@ main, .site-main {
 }
 
 /* Override phần tử con */
-main * {
+main *:not(mark) {
   background-color: transparent !important;
   color: inherit !important;
 }
