@@ -39,3 +39,17 @@
 .menu-toggle {
   display: none;
 }
+
+.theme-toggle {
+  background: transparent;          /* nền trong suốt */
+  border: 1px solid #2a7ae2;        /* viền màu xanh như link */
+  color: #2a7ae2;                   /* chữ màu xanh */
+  padding: 0.2rem 0.6rem;           /* đệm nhỏ trong nút */
+  border-radius: 5px;               /* bo tròn góc */
+  cursor: pointer;                  /* con trỏ chuột thành tay */
+  font-size: 1.1rem;                /* kích thước chữ vừa phải */
+  margin-left: 15px;                /* cách menu bên trái 15px */
+  vertical-align: middle;           /* canh nút theo chiều dọc */
+  user-select: none;                /* không cho chọn chữ */
+}
+
