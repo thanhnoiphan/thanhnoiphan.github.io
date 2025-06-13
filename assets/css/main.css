@@ -61,11 +61,13 @@ a:hover {
 
 .site-nav {
   display: flex;
+  justify-content: center; /* căn giữa toàn bộ nav content */
   align-items: center;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  gap: 1rem;
+  gap: 2rem;
+  flex-wrap: wrap;  /* giúp tự động xuống dòng khi nhỏ */
+  position: relative;
 }
+
 
 /* Trái: Tên hoặc logo */
 .site-brand {
@@ -79,10 +81,10 @@ a:hover {
 .menu-links {
   display: flex;
   gap: 2rem;
-  flex: 1;
-  justify-content: center;
   align-items: center;
+  justify-content: center; /* quan trọng: căn giữa link */
 }
+
 
 .menu-links a {
   padding: 0.5rem 0.75rem;
