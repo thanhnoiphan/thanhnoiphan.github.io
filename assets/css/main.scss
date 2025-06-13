@@ -85,14 +85,14 @@ a:hover {
 }
 
 /* ============================
-   Page Content
+   Page Content (ưu tiên màu) 
    ============================ */
 
-main {
-  background-color: var(--background-color);
-  color: var(--text-color);
+main, main * {
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
   padding: 2rem;
-  min-height: 60vh; /* tuỳ chọn */
+  min-height: 60vh;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
