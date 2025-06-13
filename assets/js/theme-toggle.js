@@ -1,19 +1,14 @@
-const toggleButton = document.getElementById('theme-toggle');
+(function () {
+  const toggle = document.getElementById('theme-toggle');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const currentTheme = localStorage.getItem('theme') || (prefersDark ? 'dark' : 'light');
 
-function applyTheme(theme) {
-  if (theme === 'dark') {
-    document.documentElement.setAttribute('data-theme', 'dark');
-  } else {
-    document.documentElement.removeAttribute('data-theme');
-  }
-}
+  document.documentElement.setAttribute('data-theme', currentTheme);
 
-// Lấy theme hiện tại từ localStorage hoặc mặc định là light
-let currentTheme = localStorage.getItem('theme') || 'light';
-applyTheme(currentTheme);
-
-toggleButton.addEventListener('click', () => {
-  currentTheme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-  applyTheme(currentTheme);
-  localStorage.setItem('theme', currentTheme);
-});
+  toggle.addEventListener('click', function () {
+    const theme = document.documentElement.getAttribute('data-theme');
+    const newTheme = theme === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  });
+})();
