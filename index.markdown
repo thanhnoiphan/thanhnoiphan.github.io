@@ -17,7 +17,7 @@ I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://
 My research interests lie at the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Having worked across disciplines and regions for over a decade, I now aim to apply my technical background toward more impactful, application-oriented, and policy-relevant research that deepens our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
 ### Find out more about my research 👉
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thanhnoiphan/)](https://www.linkedin.com/in/thanhnoiphan/)
 [![Github Badge](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github&logoColor=white&link=https://github.com/thanhnoiphan/)](https://www.github.com/thanhnoiphan/) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
