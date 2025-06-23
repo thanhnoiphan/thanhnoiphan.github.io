@@ -12,7 +12,7 @@ As part of the "Upscaling Vegetation" work package, I develop spatial datasets b
 
 Before joining LMU, I was a Research Associate at the [University of Göttingen](https://www.uni-goettingen.de/), a full-time lecturer and researcher at the [Vietnam National University of Agriculture](https://eng.vnua.edu.vn/), and a Geodesy Engineer at the Geodetic and Topographic Division in Hanoi, Vietnam.
 
-I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://humg.edu.vn/en/Pages/home.aspx), Vietnam), an MSc in Natural Resources Management (2012, [Asian Institute of Technology](https://ait.ac.th/), Thailand), and a PhD in Geography (2018, [University of Göttingen](https://www.uni-goettingen.de/), Germany), under the supervision of [Prof. Dr. Martin Kappas](https://www.uni-goettingen.de/en/40585.html).
+I hold a BSc in Geodesy (2007, [Hanoi University of Mining and Geology](https://humg.edu.vn/en/Pages/home.aspx), Vietnam), an MSc in Natural Resources Management (2012, [Asian Institute of Technology](https://ait.ac.th/), Thailand), and a PhD in Geography (2019, [University of Göttingen](https://www.uni-goettingen.de/), Germany), under the supervision of [Prof. Dr. Martin Kappas](https://www.uni-goettingen.de/en/40585.html).
 
 My research interests lie at the intersection of remote sensing applications, land use/cover change, land system science, and climate change impacts and adaptation. Having worked across disciplines and regions for over a decade, I now aim to apply my technical background toward more impactful, application-oriented, and policy-relevant research that deepens our understanding of how land management and climate change interact to shape ecosystem responses across spatio-temporal scales.
 
