@@ -10,6 +10,8 @@ permalink: /publications/
 
 **Peer-Reviewed Journals (published)**
 
+[15]. Nguyen, C. T., Diem, P. K., Nghia, D. H., Diem, N. K., Diep, N. T. H., **Phan, T.-N.**, Vo, Q. M., & Quang, N. H. (2025). Leveraging convolutional neural networks and textural features for tropical fruit tree species classification. Remote Sensing Applications: Society and Environment, 39, 101633. https://doi.org/10.1016/j.rsase.2025.101633
+
 [14]. Diem, P. K., Nguyen, C. T., Diem, N. K., Diep, N. T. H., Thao, P. T. B., Hong, T. G., & **Phan, T.-N**. (2024). Remote sensing for urban heat island research: Progress, current issues, and perspectives. *Remote Sensing Applications: Society and Environment*, 33. [https://doi.org/10.1016/j.rsase.2023.101081](https://doi.org/10.1016/j.rsase.2023.101081)
 
 [13]. Ji, S., Dashpurev, B., **Phan, T.-N**., Dorj, M., Jäschke, Y., & Lehnert, L. (2024). Above‐ground biomass retrieval with multi‐source data: Prediction and applicability analysis in Eastern Mongolia. *Land Degradation & Development*. [https://doi.org/10.1002/ldr.5109](https://doi.org/10.1002/ldr.5109)
@@ -38,13 +40,11 @@ permalink: /publications/
 
 [1]. **Phan, T.-N**., Kappas, M., & Degener, J. (2016). Estimating Daily Maximum and Minimum Land Air Surface Temperature Using MODIS Land Surface Temperature Data and Ground Truth Data in Northern Vietnam. *Remote Sensing*, 8(12). [https://doi.org/10.3390/rs8121002](https://doi.org/10.3390/rs8121002)
 
-**Peer-Reviewed Journals (Submitted, Under Review)**
+**Peer-Reviewed Journals (Under Review)**
 
-[4]. Oyundelger, K., Jäschke, Y., Gonchigsumlaa, G., Batjav, B., Damdindorj, S., Munkhzul, O., **Phan, T.-N**., Mehring, M., Drees, L., Kasymov, U., Ring, I., Ritz, C.M., Wesche, K. (2024). Assessing pasture quality in Mongolian steppe: cross-validating local traditional knowledge and standard ecological surveys (Submitted).
+[3]. Oyundelger, K., Jäschke, Y., Gonchigsumlaa, G., Batjav, B., Damdindorj, S., Munkhzul, O., **Phan, T.-N**., Mehring, M., Drees, L., Kasymov, U., Ring, I., Ritz, C.M., Wesche, K. (2024). Assessing pasture quality in Mongolian steppe: cross-validating local traditional knowledge and standard ecological surveys (Under Review).
 
-[3]. Ji, S., Gonchigsumlaa, G., Damdindorj, S., Tseren, T., Sharavjamts, D., Otgondemberel, A., Gurjav, E., Puntsagsuren, M., Tsabatshir, B., Gungaa, T., Batbold, N., Drees, L., Ganbayar, B., Orosoo, D., Lkhamsuren, B., Ganbat, B., Damdinsuren, M., Gombosuren, G., Dashpurev, B., **Phan, T.-N**., Dejid, N., Müller, T., Lehnert, L. (2024). Monitoring breakpoints under grazing pressure in Eastern Mongolia (Under Review).
-
-[2]. Nguyen, C. T., Diem, P. K., Dang, H.N., Diem, N. K., Diep, N. T. H., **Phan, T.-N**., Vo, Q.M. (2024). Leveraging Convolutional Neural Networks and Textural Features for Tropical Fruit Tree Species Classification. (Under Review).
+[2]. Ji, S., Gonchigsumlaa, G., Damdindorj, S., Tseren, T., Sharavjamts, D., Otgondemberel, A., Gurjav, E., Puntsagsuren, M., Tsabatshir, B., Gungaa, T., Batbold, N., Drees, L., Ganbayar, B., Orosoo, D., Lkhamsuren, B., Ganbat, B., Damdinsuren, M., Gombosuren, G., Dashpurev, B., **Phan, T.-N**., Dejid, N., Müller, T., Lehnert, L. (2024). Monitoring breakpoints under grazing pressure in Eastern Mongolia (Under Review).
 
 [1]. Wang, Y., Oyunbileg, M., Khaliun, U., Batlai, O., **Phan, T.-N**., Lehnert, L., Gonchigsumlaa, G., Damdindorj, S., Kasymov, U., Drees, L., Mehring, M., Dejid, N., Wesche, K. (2024). Herder mobility matters yet climate controls plant community composition in eastern Mongolian steppe. (Under Review).
 
