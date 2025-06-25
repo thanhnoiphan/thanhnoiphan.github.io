@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 # Publications
+- Publications: 15 peer-reviewed journal articles (8 as first author); 3 manuscripts under review. 
+- Citations: >2,650 citations; h-index of 12 (as of June 2025, based on Google Scholar)
 
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
