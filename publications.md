@@ -6,7 +6,10 @@ permalink: /publications/
 
 # Publications
 
-[Google Scholar](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58706107200) | [ResearchGate](https://www.researchgate.net/profile/Thanh-Noi-Phan)
+[![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
+[![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
+[![Scopus Badge](https://img.shields.io/badge/-Scopus-FF6F00?style=flat&logo=Elsevier&logoColor=white&link=https://www.scopus.com/authid/detail.uri?authorId=58706107200)](https://www.scopus.com/authid/detail.uri?authorId=58706107200)
+[![Web of Science Badge](https://img.shields.io/badge/-Web_of_Science-7030A0?style=flat&logo=Clarivate&logoColor=white&link=https://www.webofscience.com/wos/author/record/AAD-9789-2019)](https://www.webofscience.com/wos/author/record/AAD-9789-2019)
 
 **Peer-Reviewed Journals (published)**
 
