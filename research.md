@@ -40,6 +40,8 @@ Proposes a simple, fast, and accurate method for large-scale land cover mapping.
 
 <img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj2_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
 
-<img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj3_LUC.png?raw=true" style="max-width: 100%; height: auto;" />
+<br> 
+
+<img src="https://github.com/thanhnoiphan/thanhnoiphan.github.io/blob/main/assets/images/prj3_LUC.jpg?raw=true" style="max-width: 100%; height: auto;" />
 
 
