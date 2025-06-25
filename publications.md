@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 # Publications
-I have published 15 papers in peer-reviewed journals, including 8 as first author, with an additional 3 manuscripts currently under review. My h-index and total citation count are 12 and over 2,650, respectively (Google Scholar, June 2025). I am the first and corresponding author of two well-cited papers published in 2018 and 2020. The citation count for my work has steadily increased each year since the publication of my first paper in 2016.
+I have published 15 papers in peer-reviewed journals, including 8 as first author, with an additional 3 manuscripts currently under review. My h-index and total citation count are 12 and over 2,650, respectively (Google Scholar, June 2025). <br> I am the first and corresponding author of two well-cited papers published in 2018 and 2020. The citation count for my work has steadily increased each year since the publication of my first paper in 2016.
 
 [![Google Scholar Badge](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao)](https://scholar.google.com/citations?user=dGQgwH0AAAAJ&hl=en&oi=ao) 
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00ccbb?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Thanh-Noi-Phan)](https://www.researchgate.net/profile/Thanh-Noi-Phan) 
