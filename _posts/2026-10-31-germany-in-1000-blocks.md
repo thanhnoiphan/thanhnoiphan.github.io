@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Germany in 1,000 Blocks"
 date: 2026-10-31
 ---
