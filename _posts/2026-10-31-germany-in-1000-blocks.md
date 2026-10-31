@@ -20,7 +20,7 @@ For me, the interesting part is not the distortion itself, but the questions it 
 
 The same approach could be extended to heat exposure, air pollution, energy, infrastructure, climate risk, or other dimensions of human–environment interactions.
 
-A map does not always have to provide the answer. Sometimes its value is making a better research question visible.
+**A map does not always have to provide the answer. Sometimes its value is making a better research question visible.**
 
 ### Data and tools
 
