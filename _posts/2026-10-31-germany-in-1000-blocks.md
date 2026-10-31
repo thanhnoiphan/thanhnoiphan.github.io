@@ -4,7 +4,7 @@ title: "Germany in 1,000 Blocks"
 date: 2026-10-31
 ---
 
-![Germany in 1,000 Blocks](/assets/germany-1000-blocks.png)
+![Germany in 1,000 Blocks](/assets/images/germany-1000-blocks.png)
 
 ## Same country. Different measures.
 
